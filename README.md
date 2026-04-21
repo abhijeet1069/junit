@@ -1,2 +1,3 @@
 # junit
-Learning JUnit for Spring boot testing
+
+Learning JUnit 5 for Spring boot testing

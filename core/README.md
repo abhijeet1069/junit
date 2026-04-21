@@ -13,6 +13,8 @@ assertThrows(Exception.class, () -> method());
 
 ## Assumptions
 
+Assumptions are used to check if test should run.
+If condition false → test skipped
 
 ## Nested tests
 
