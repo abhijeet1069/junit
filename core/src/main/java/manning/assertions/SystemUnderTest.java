@@ -1,4 +1,4 @@
-package manning.core.assertions;
+package manning.assertions;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
 package manning.assertions;
 
-import manning.core.assertions.Job;
-import manning.core.assertions.NoJobException;
-import manning.core.assertions.SystemUnderTest;
+import manning.assertions.Job;
+import manning.assertions.NoJobException;
+import manning.assertions.SystemUnderTest;
 import org.junit.jupiter.api.DisplayNameGeneration;
 import org.junit.jupiter.api.DisplayNameGenerator;
 import org.junit.jupiter.api.Test;
